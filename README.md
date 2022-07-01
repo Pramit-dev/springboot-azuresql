@@ -1,6 +1,4 @@
 # springboot-azuresql
-jdbc:sqlserver://pramittestdb.database.windows.net:1433;database=pramitTestDb;user=pramittestdb@pramittestdb;password={your_password_here};encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
-
 
 # Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
 # More GitHub Actions for Azure: https://github.com/Azure/actions
