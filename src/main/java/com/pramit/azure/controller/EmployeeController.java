@@ -30,7 +30,7 @@ public class EmployeeController {
 	
 	@GetMapping("/hello")
 	public String addEmployee() {
-		return "This is my first sprinboot azure example";
+		return "This is my first sprinboot azure example ";
 	}
 
 }
